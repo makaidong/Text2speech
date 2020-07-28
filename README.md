@@ -8,8 +8,8 @@
 
 
 
-1.首先 免费注册用户<br/>
-2.开通SVIP会员并充值金额 加入SVIP会员特惠<br/>
+1.首先 免费注册用户 http://peiyin.xiaomawenku.com/login.html <br/>
+2.开通SVIP会员并充值金额 加入SVIP会员特惠 http://peiyin.xiaomawenku.com/svip.html?svip_type_pay=1<br/>
 3.小马配音调用API接口：<br/>
 HTTP协议 POST请求：URL：http://peiyin.xiaomawenku.com/PeiYin/xiaomapeiyin_api_to_peiyin<br/>
 参数：<br/>
