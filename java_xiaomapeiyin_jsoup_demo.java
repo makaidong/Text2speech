@@ -25,8 +25,8 @@ public class JsoupXiaoMaPeiYin {
         try {
             Connection connect = Jsoup.connect(url);
             // 带参数开始
-            connect.data("xiaomapeiyin_svip_user_id", "3339");
-            connect.data("xiaomapeiyin_svip_token", "123.com");
+            connect.data("xiaomapeiyin_svip_user_id", "注册会员id");
+            connect.data("xiaomapeiyin_svip_token", "密钥");
             connect.data("xiaomapeiyin_text", "小马配音测试");
             connect.data("caiyanglv", "16");
             connect.data("geshi", "2");
