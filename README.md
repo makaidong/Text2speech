@@ -3,7 +3,7 @@
 
 
 
-1.首先 免费注册用户
+1.首先 免费注册用户<br/>
 2.开通SVIP会员并充值金额 加入SVIP会员特惠
 3.小马配音调用API接口：
 HTTP协议 POST请求：URL：http://peiyin.xiaomawenku.com/PeiYin/xiaomapeiyin_api_to_peiyin
@@ -20,7 +20,7 @@ xiaomapeiyin_svip_user_id:注册并开通svip的id
 xiaomapeiyin_svip_token:客服给你的秘钥
 返回json：
 已经合成的线上地址url 使用http下载即可。
-调用成功：
+调用成功：<br/>
 {"data":{"xiaomapeiyin_result_url":"http://peiyin.xiaomawenku.com/xiaomapeiyin_down/202007.html?isDown=1&filename=小马配音合成文件.mp3"},"msg":"小马配音，调用成功":1}
-调用失败：
+调用失败：<br/>
 {"data":{},"msg":"小马配音，调用失败,原因参数：xiaomapeiyin_svip_token或xiaomapeiyin_svip_user_id不对","status":400}
