@@ -1,5 +1,5 @@
-# Texttospeech
-小马配音 文字转语音 声音 配音神器 商业产品官方API http://peiyin.xiaomawenku.com/api.html <br/>
+# Text2speech
+文字转语音 声音 配音神器 小马配音 商业产品官方API http://peiyin.xiaomawenku.com/api.html <br/>
 5秒立刻mp3 wav文件，  52种语音 试听:http://peiyin.xiaomawenku.com/shiting.html 供您选择<br/>
 
 自行试听，远超过国内的百度，腾讯，华为云，各种云开源的产品。自行对比，无需解释。<br/>
