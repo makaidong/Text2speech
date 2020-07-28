@@ -7,8 +7,7 @@ import org.jsoup.nodes.Document;
 import java.io.IOException;
 
 /**
- * http://www.zhimaruanjian.com/?utm-source=bdtg&utm-keyword=?1136
- * 151
+ *小马配音 文字转语音 API http://peiyin.xiaomawenku.com/api.html
  *
  */
 public class JsoupXiaoMaPeiYin {
