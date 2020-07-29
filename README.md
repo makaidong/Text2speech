@@ -1,6 +1,9 @@
 # Text2speech
+支持所有编程语言的接口：Java Php C++ C# Python JavaScript Node等<br/>
 
 文字转语音API 声音 配音API神器 小马配音 商业产品官方API http://peiyin.xiaomawenku.com/api.html <br/>
+
+
 
 5秒立刻mp3 wav文件，  52种语音 试听:http://peiyin.xiaomawenku.com/shiting.html 供您选择 电台女声 情感女声 知心姐姐 情感男声 青年男声 磁性男声 软萌童声 新闻男声 儿童音 萝莉女声 湖南重口音男声 温柔女声 自然男声 客服催款严厉女声 亲和女声 甜美女声<br/>
 
