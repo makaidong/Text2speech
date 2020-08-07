@@ -1,5 +1,5 @@
 # Text2speech
-支持所有编程语言的接口：Java Php C++ C# Python JavaScript Node等<br/>
+文字转语音API 支持所有编程语言的接口：Java Php C++ C# Python JavaScript Node等<br/>
 
 文字转语音API 声音 配音API神器  52种语音 试听:http://peiyin.xiaomawenku.com/shiting.html 
 <br/>
